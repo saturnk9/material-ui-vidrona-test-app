@@ -1,6 +1,6 @@
 Vidrona test dashboard 
-Made using React, Material UI, Recharts
 
+Made using React, Material UI, Recharts
 
 
 Important code with charts etc. in ![Home.js](https://github.com/saturnk9/material-ui-vidrona-test-app/blob/main/src/pages/Home/Home.js)
